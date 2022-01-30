@@ -43,4 +43,5 @@ Los bloques de contenido dinámico nos ofrecen la posibilidad de añadir a nuest
 - **Contador:** El contador podría mostrar la cuenta atrás hasta la fecha en la que se va a celebrar un evento, o la fecha en la que sale a la venta un nuevo producto. 
 ![dinamico-contador](https://imgur.com/YBzLgis.jpg)
 - **Facebook:** Pues como su propio nombre indica, este bloque nos permite añadir a nuestra web un pequeño botón donde podremos enlazar el perfil de facebook de nuestra compañia para facilitar su acceso a nuestros usuarios/clientes.
+
 ![dinamico-facebook](https://imgur.com/7F8kdR9.jpg)
