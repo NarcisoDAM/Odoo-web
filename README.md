@@ -43,5 +43,15 @@ Los bloques de contenido dinámico nos ofrecen la posibilidad de añadir a nuest
 - **Contador:** El contador podría mostrar la cuenta atrás hasta la fecha en la que se va a celebrar un evento, o la fecha en la que sale a la venta un nuevo producto. 
 ![dinamico-contador](https://imgur.com/YBzLgis.jpg)
 - **Facebook:** Pues como su propio nombre indica, este bloque nos permite añadir a nuestra web un pequeño botón donde podremos enlazar el perfil de facebook de nuestra compañia para facilitar su acceso a nuestros usuarios/clientes.
-
 ![dinamico-facebook](https://imgur.com/7F8kdR9.jpg)
+
+##### Contenido interno
+
+Los bloques dispobibles en este apartado, podríamos decir que sirven para obtener información relacionada con el contenido de nuestra web, veamos algún ejemplo:
+
+- **Calidad:** con este bloque los clientes podrían valorar nuestros productos o servicios en venta una vez los han comprado, y así como nos sirve para que los clientes den su opinión respecto a estos, también nos sirve para, de manera interna recopilar las opiniones de los clientes sobre los productos/servicios y actuar en consecuencia.
+![inner-calidad](https://imgur.com/dwx5Z1W.jpg)
+- **Social:** con el bloque "social" podemos compartir cualquier información de la web en nuestras correspondientes redes sociales, por ejemplo, un producto que nos gusta y queremos compartir, mediante esta botonera podemos iniciar un post con nuestro producto como contenido en cualquier red social.
+![inner-social](https://imgur.com/b2Gf9bK.jpg)
+- **Citas:** las citas nos permiten mostrar de manera grráfica y dinámica las opiniones de nuestros clientes sobre nuestros productos/servicios.
+![inner-citas](https://imgur.com/LganyWT.jpg)
